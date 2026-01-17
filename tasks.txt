@@ -1,0 +1,6 @@
+Task List
+
+- Setup project
+- Practice HTML, CSS, JS
+- Run Python script
+- Commit changes daily
